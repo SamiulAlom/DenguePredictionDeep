@@ -1,0 +1,49 @@
+undevelopment = 0
+development = 1
+male = 1
+female = 0
+dhaka = 1
+building = 1
+tinshed = 0
+other  = 2
+dhaka uttor = 1
+dhaka dokkhin = 0
+
+
+
+Mirpur	---North
+Chawkbazar	---South
+paltan	---South
+motijhil	---South
+Gendaria	---South
+dhanmondi	---South
+new market	---South
+sher-e-bangla nagar	---North
+kafrul	---North
+pallabi	---North
+shahbagh	---South
+mohammadpur	---North
+shyampur	- - - South
+kalabagan	-- - South
+bosila	---North
+jatrabari	---South
+adabor	---North
+kamrangirchar	---South
+biman bandar	---North
+ramna	---South
+badda	---North
+bangashal	---South
+sabujbagh	---South
+hazaribagh	---South
+sutrapur	---South
+lalbagh	---South
+demra	---South
+banasree	---North
+cantonment	---North
+keraniganj	---South
+tejgaon	---North
+khilkhet	---North
+kadamtali	---South
+gulshan	---North
+rampura	---North
+khilgaon	---South
